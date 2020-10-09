@@ -11,14 +11,20 @@
   },
   "dependencies": {
     "react": "16.3.2",
-    "react-native": "~0.55.4",
-    "three": "^0.87.0",
     "react-360": "~1.1.0",
-    "react-360-web": "~1.1.0"
+    "react-360-web": "~1.1.0",
+    "react-native": "~0.55.4",
+    "react-native-render-html": "^4.2.4",
+    "react-native-webview": "^10.9.2",
+    "three": "^0.87.0"
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^19.0.0",
     "babel-preset-react-native": "^1.9.1",
+    "eslint": "^7.11.0",
+    "eslint-plugin-react": "^7.21.4",
+    "eslint-plugin-react-native": "^3.10.0",
     "jest": "^19.0.2",
     "react-devtools": "^2.5.2",
     "react-test-renderer": "16.0.0",
